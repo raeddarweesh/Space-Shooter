@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aphelion",
+      "hasCanvas": true,
+      "bodyTextLen": 191,
+      "bodyTextHash": "9d43afbe6617a979573d702524b7c47b79c9eefee38f6e749dedcabeeb744482",
+      "bodyTextPrefix": "FAR-EDGE RUN APHELION Break the incoming waves. Grab multi-shot,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aphelion",
+      "hasCanvas": true,
+      "bodyTextLen": 191,
+      "bodyTextHash": "9d43afbe6617a979573d702524b7c47b79c9eefee38f6e749dedcabeeb744482",
+      "bodyTextPrefix": "FAR-EDGE RUN APHELION Break the incoming waves. Grab multi-shot,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
