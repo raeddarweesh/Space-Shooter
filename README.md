@@ -69,8 +69,8 @@ A modern 2D space shooter game built with React, TypeScript, and Vite. Defend th
     ```bash
     npm run build
 
-This will create an optimised build in the dist folder.
+  This will create an optimised build in the dist folder.
 
 5. **Previewing the Production Build:**
-   bash
+   ```bash
    npm run preview
